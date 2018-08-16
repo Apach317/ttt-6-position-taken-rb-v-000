@@ -6,5 +6,6 @@ def position_taken? (board, index)
   elsif "X"
     true
   else "O"
+    true
   end
 end

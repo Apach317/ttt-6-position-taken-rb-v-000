@@ -5,9 +5,3 @@ def position_taken?(board, index)
   else false board[index] = (" " || nil)
   end
 end
-
-def position_taken?(board, index).tobe(false)
-  if
-    false
-  end
-end

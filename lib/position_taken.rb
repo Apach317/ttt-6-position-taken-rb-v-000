@@ -2,8 +2,8 @@
 
 def position_taken? (board, index)
   if "o" || "x"
-    false
-  else " "
     true
+  else " "
+    false
   end
 end

@@ -1,9 +1,9 @@
 # code your #position_taken? method here!
 
 def position_taken? (board, index)
-  if "X"
+  if board ("X")
     false
-  elsif "O"
+  elsif board ("O")
     false
   elsif " "
     false

@@ -1,13 +1,13 @@
 # code your #position_taken? method here!
 
-def position_taken?(board, index).tobe(true)
-  if board[index] = ("x" || "o")
-    true
+def position_taken?(board, index)
+  if true board[index] = ("x" || "o")
+  else false board[index] = (" " || nil)
   end
 end
 
 def position_taken?(board, index).tobe(false)
-  if board[index] = (" " || nil)
+  if
     false
   end
 end

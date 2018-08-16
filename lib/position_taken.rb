@@ -3,9 +3,7 @@
 def position_taken? (board, index)
   if " "
     false
-  elsif "X"
-    true
-  else "O"
+  else "O" && "X"
     true
   end
 end

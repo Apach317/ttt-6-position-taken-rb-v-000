@@ -1,6 +1,6 @@
 # code your #position_taken? method here!
 
-def position_taken?(board, index.tobe(true))
+def position_taken?(board, index)
   if "x"
     return true
   elsif "o"

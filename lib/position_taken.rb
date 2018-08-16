@@ -1,11 +1,11 @@
 # code your #position_taken? method here!
 
 def position_taken? (board, index)
-  if "X"
+  if value = "X"
     false
-  elsif "O"
+  elsif value = "O"
     false
-  elsif " "
+  elsif value =  " "
     false
   else
     false
